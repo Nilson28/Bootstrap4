@@ -58,6 +58,8 @@ body {
   color: floralwhite; }
   .modal-header button {
     color: floralwhite; }
+  .modal-header button:hover {
+    color: floralwhite; }
 
 .modal-body {
   background-color: #D1C4E9; }
